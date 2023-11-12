@@ -54,7 +54,6 @@
     font-size: 18px;    
     font-style: normal;
     line-height: 24.3px;
-    text-decoration: none;
 }
 
 .header__phone-number {
@@ -153,7 +152,6 @@
     font-weight: 400;
     line-height: normal;
     text-transform: uppercase;
-    color: #FFF;
     background-color: transparent;    
     border: 1px solid #FFF;
     padding: 12px 32px;
