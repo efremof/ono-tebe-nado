@@ -200,6 +200,8 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-size: cover;
+    background-position: center;
 
     /* В данном случае  heigh ни на что не влияет. Указал как было по заданию */
 
@@ -208,20 +210,14 @@
 
 .card_type_film {
     background-image: url(../images/card-lot-01.jpg);
-    background-size: cover;
-    background-position: center;
 }
 
 .card_type_book {
     background-image: url(../images/card-lot-02.jpg);
-    background-size: cover;
-    background-position: center;
 }
 
 .card_type_picture {
     background-image: url(../images/card-lot-03.jpg);
-    background-size: cover;
-    background-position: center;
 }
 
 .card__title {
@@ -312,10 +308,6 @@
     font-weight: 400;
     line-height: normal;
     gap: 25px;
-}
-
-.about__text:last-of-type {
-    gap: 0;
 }
 
 .footer {
