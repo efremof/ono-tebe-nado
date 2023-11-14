@@ -2,8 +2,8 @@
     display: grid;
     grid-template-columns: 1fr auto 1fr;
     font-size: 18px;
-    margin: 86px 49px 98px 47px;
-    max-width: 1340px;
+    margin: 86px 49px 89px 47px;
+    git max-width: 1340px;
 }
 
 .header__menu {
